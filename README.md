@@ -5,6 +5,6 @@ General Artificial Intelligence
 
 Derive from this thought the happiest thought of my small life:
 
-"In order to build Artificial Intelligence that simulates human brain, we don't write programs that parallel process electrical pulses through dendrites, axons and synapses."
+"In order to build Artificial Intelligence that simulates human brain, we DON'T write programs that parallel process electrical pulses through dendrites, axons and synapses."
 
 Stay tuned...

@@ -1,4 +1,4 @@
-# AIplane
+# AI-plane
 General Artificial Intelligence
 
 "Keep in mind that in order to build flying machines, we don’t build airplanes that flap their wings, or that are made of bones, muscle, and feather." -Hitherto unknown author.
